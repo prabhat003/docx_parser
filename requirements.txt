@@ -1,0 +1,16 @@
+python-docx
+pandas
+pyarrow
+tabulate
+beautifulsoup4
+html2text
+unstructured
+unstructured[pdf]
+atlassian-python-api
+opencv-contrib-python
+langchain_community
+python-pptx 
+unstructured
+langchain
+langchain-community 
+langchain-core
